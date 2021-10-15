@@ -28,3 +28,14 @@ _**Les deux combinés**_<br>
 `un autre style`<br>
 
 [Mon rappeur préféré dans un lien](https://www.youtube.com/channel/UCeBu6AFsaPVElhFzlj5hetg)
+
+<details>
+  <summary>Plus de détails</summary>
+  
+  Pas de détails, juste une liste.
+  1. Grand 1
+  2. Grand 2
+     * 2.1
+     * 2.2
+  3. Grand 3
+</details>
