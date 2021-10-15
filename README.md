@@ -11,6 +11,20 @@ To do list:
 
 |Col 1|Col 2|Col 3|
 |-|:-:|-:|
-|ligne 1| right-aligned | $1600 |
-|ligne 2| centered      |   $12 |
-|ligne 3| are neat      |    $1 |
+|ligne 1|centré|à droite-----|
+|ligne 2|zébré|à droite---|
+|ligne 3|centré|à droite-|
+
+
+Un peu de **css**:
+```CSS
+background-color: #000000;
+scroll-behavior: smooth;
+```
+
+*Voici de l'italic*<br>
+**Voici du gras**<br>
+_**Les deux combinés**_<br>
+`un autre style`<br>
+
+[Mon rappeur préféré dans un lien](https://www.youtube.com/channel/UCeBu6AFsaPVElhFzlj5hetg)
