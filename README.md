@@ -22,10 +22,13 @@ background-color: #000000;
 scroll-behavior: smooth;
 ```
 
-*Voici de l'italic*<br>
-**Voici du gras**<br>
-_**Les deux combinés**_<br>
-`un autre style`<br>
+*Voici de l'italic*
+
+**Voici du gras**
+
+_**Les deux combinés**_
+
+`un autre style`
 
 [Mon rappeur préféré dans un lien](https://www.youtube.com/channel/UCeBu6AFsaPVElhFzlj5hetg)
 
